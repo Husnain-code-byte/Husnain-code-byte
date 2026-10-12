@@ -1,16 +1,31 @@
-## Hi there 👋
+# Husnain Ali
 
-<!--
-**Husnain-code-byte/Husnain-code-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at COMSATS University Islamabad, Wah Campus. I build Android applications and AI-powered tools, with a focus on clean design, solid architecture and shipping working software.
 
-Here are some ideas to get you started:
+## Focus areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cross-platform and native Android development (Flutter, Kotlin, Jetpack Compose)
+- AI-assisted and agentic software development workflows
+- UI/UX design for service-oriented applications such as streaming, media and shopping apps
+
+## Selected projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Pixel** *(in development)* | Android application built with an AI-assisted development workflow. Details coming soon. | Flutter, Dart |
+| [**CineAI Addon**](https://github.com/Husnain-code-byte/cineai-addon) | Stremio addon that generates personalized, Netflix-style recommendation rows using Gemini. | JavaScript, Gemini API |
+| **Watchly** *(private)* | Streaming aggregator app with content discovery powered by the TMDB API. | Kotlin, Jetpack Compose |
+
+## Technical skills
+
+| Area | Technologies |
+|---|---|
+| Mobile | Flutter, Dart, Kotlin, Jetpack Compose |
+| Languages | Python, JavaScript, C++, HTML |
+| Backend and data | FastAPI, SQLite, REST APIs |
+| AI | Gemini API, multi-agent workflows, prompt and agent design |
+| Tools | Git, GitHub, Figma, Linux, Antigravity, Claude Code, OpenCode |
+
+## Contact
+
+husnainali.codes@gmail.com
