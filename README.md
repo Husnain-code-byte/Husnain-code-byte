@@ -24,7 +24,7 @@ Software Engineering student at COMSATS University Islamabad, Wah Campus. I buil
 | Languages | Python, JavaScript, C++, HTML |
 | Backend and data | FastAPI, SQLite, REST APIs |
 | AI | Gemini API, multi-agent workflows, prompt and agent design |
-| Tools | Git, GitHub, Figma, Linux, Antigravity, Claude Code, OpenCode |
+| Tools | Git, GitHub, VS Code, Figma, Linux, Antigravity, Claude Code, OpenCode |
 
 ## Contact
 
